@@ -103,6 +103,12 @@ header .icons a i {
   margin-bottom: 10px;
 }
 
+.content .stars {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+}
+
 .content .stars i {
   color: #ffc50a;
 }
